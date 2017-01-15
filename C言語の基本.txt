@@ -1,0 +1,13 @@
+C言語の基本
+main関数
+#include <stdio.h>
+int main()
+{
+[具体的な処理]
+return 0;
+}
+
+*/ コメント部分 /*
+
+画面表示にはprintf文を用いる　\n を使うと改行する
+  
